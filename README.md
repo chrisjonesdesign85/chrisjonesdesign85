@@ -1,6 +1,7 @@
 Hi there, I'm Chris Jones! 👋
 
 I'm a passionate coder and security enthusiast with a focus on Penetration Testing and Security Analysis. I'm always looking for ways to expand my knowledge and skills in these areas, and I'm excited to collaborate on CTFs and coding projects with other like-minded individuals.
+
 🌱 What I'm Currently Learning
 
 I'm currently delving deeper into Penetration Testing techniques and exploring ways to enhance my understanding of Security Analysis. I believe that continuous learning is the key to staying ahead in the field of cybersecurity, and I'm always on the lookout for new resources and opportunities to improve my knowledge.
